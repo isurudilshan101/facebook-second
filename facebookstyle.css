@@ -1,0 +1,113 @@
+ .header
+ {
+ 	height: 100px;
+ 	background-color: #3A5795;
+ 	margin-left:-8px;
+ 	margin-right:-8px;
+ 	margin-top:-8px;
+ }
+ .facebook
+ {
+ 	font-size: 42px;
+ 	font-family: comic sans MS;
+ 	color: white;
+ 	font-weight:bold;
+ 	position:relative;
+ 	margin-left:210px;
+ 	top: 32px;
+
+ }
+.T1
+{
+	position:relative;
+	float:right;
+	margin-right:120px;
+	margin-top:-38px;
+	color:white;
+
+}
+.c1:hover
+{
+	color:red;
+	cursor: pointer;
+}
+.f1
+{
+	position:relative;
+	float:right;
+	margin-right: 89px;
+	margin-top:-200px;
+}
+.fn1
+{
+	border-radius: 5px;
+	border:1px solid #BDC7D8;
+	padding:0px;
+	height:40px;
+	width:210px;
+	color: black;
+	position: relative;
+	top:-20px;
+
+}
+
+.f2
+{
+	border-radius: 5px;
+	border:1px solid #BDC7D8;
+	padding:0px;
+	height:40px;
+	width:210px;
+	color: black;
+	position: relative;
+	top:-20px;
+
+}
+
+.f3
+{
+	border-radius: 5px;
+	border:1px solid #BDC7D8;
+	padding:0px;
+	height:40px;
+	width:425px;
+	color: black;
+	margin-top: 10px;
+	position: relative;
+	top:-20px;
+	
+	
+}
+.f4
+{
+	border-radius: 5px;
+	border:1px solid #BDC7D8;
+	padding:0px;
+	height:40px;
+	width:425px;
+	color: black;
+	margin-top: 10px;
+	position: relative;
+	top:-20px;
+}
+.f5
+{
+	border-radius: 5px;
+	border:1px solid #BDC7D8;
+	padding:0px;
+	height:40px;
+	width:425px;
+	color: black;
+	margin-top: 10px;
+	position: relative;
+	top:-20px;
+}
+select
+
+{
+	height:35px; 
+	display: inline;
+	float:left;
+	position: relative;
+	top:-20px;
+}
